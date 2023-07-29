@@ -4,6 +4,7 @@ function App() {
 
   return (
     <>
+      <h1>Hello from App.jsx component</h1>
     </>
   )
 }
