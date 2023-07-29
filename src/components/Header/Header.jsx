@@ -6,6 +6,7 @@ const Header = () => {
         <div className='links'>
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
+            <Link to="/users">Users</Link>
             <Link to="/contact">Contact</Link>
         </div>
     );
